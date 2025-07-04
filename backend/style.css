@@ -1,0 +1,24 @@
+/* changes the background color of the body
+#welcome{
+    background-color: rgb(154, 194, 232);
+    
+}
+
+.heading{
+    color:bisque   
+
+}}
+
+*{
+    color:rgb(189, 28, 28)
+} */
+
+/* body{
+    background-image: url("https://www.vincentvangogh.org/assets/img/self-portrait.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+} */
+p {
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+}
