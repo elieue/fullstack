@@ -10,13 +10,13 @@
     background-position: center;
     background-size: contain;
 } */
-/* pangtanggal nung underline sa mga link
 
+/* pangtanggal nung underline sa mga link
 h1,a {
   text-decoration: none;
 } */
 
-table, th, td {
+/* table, th, td {
     border: 2px solid;
     width: 20%;
     border-collapse: collapse;
@@ -29,4 +29,47 @@ th,td{
 
 tr:hover{
     background-color: aquamarine;
+} */
+
+/* .dropdownbutton {
+    background-color: pink;
+    color: white;
+    padding: 13px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu{
+    display: none;
+    position: absolute;
+    background-color: lightcoral;
+    min-width: 150px;
+}
+.dropdown-menu a {
+    color: black;
+    padding: 11px 15px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-menu a:hover {
+    background-color: lightblue;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown:hover .dropdownbutton {
+    background-color: lightgreen;
+} */
+
+div[class = "test"] {
+    color:red;
 }
